@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "EmpireCraft Enderman Pack",
+    "description": "A resource pack that changes the texture of the enderman to the EmpireCraft Enderman logo.",
+    "uuid": "7c11077e-dc2b-4641-b80a-df3bafbf888b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "39b0c6f1-ad98-4d96-b318-1483c393b58d",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": [ "undefined" ],
+    "generated_with": {
+      "blockception-minecraft-bedrock": [
+        "9.1.12"
+      ]
+    }
+  }
+}

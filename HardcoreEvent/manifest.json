@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "HardcoreEvent",
+    "description": "This is a Hardcore Event Addon for Minecraft Bedrock Edition.",
+    "uuid": "e7be25c3-bb3f-4a85-aca0-b32482c727ab",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "883cb230-c87c-4f85-93d7-c27344a463c4",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "entry": "scripts/main.js",
+      "language": "javascript",
+      "uuid": "728d9188-b36a-4d16-852f-b4d60b9bf9b3",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": [ "SuperNobod87786" ],
+    "generated_with": {
+      "blockception-minecraft-bedrock": [
+        "9.1.12"
+      ]
+    }
+  },
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.7.0"
+    }
+  ]
+}

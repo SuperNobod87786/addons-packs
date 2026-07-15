@@ -12,9 +12,12 @@ A resource pack that changes the texture of the enderman to the EmpireCraft Ende
 **💬 EmpireCraft Discord:**  
 Join the EmpireCraft realm discord:  
   
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/8JyFrB3EB2)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/8JyFrB3EB2)  
 
+[**⬇️ Latest Release**](https://github.com/SuperNobod87786/addons-packs/releases/tag/EmpireCraftEnderman-rp-v1.0.0)  
 ## HardcoreEvent
 A behavior pack that adds a custom play expirience to your server.  
 **How it works:**  
-Each player gets 3 hours of normal survival play time. After those 3 hours you will get set into hardcore mode, meaning dying will put you in spectator mode.
+Each player gets 3 hours of normal survival play time. After those 3 hours you will get set into hardcore mode, meaning dying will put you in spectator mode.  
+  
+[**⬇️ Latest Release**](https://github.com/SuperNobod87786/addons-packs/releases/tag/HardcoreEvent-v1.0.0)
